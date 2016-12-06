@@ -5,12 +5,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="The lastest news about our destinations in Spain and Portugal">
 		<meta name="author" content="Francisco Jiménez">
-		<meta property="og:image" content="http://alfacamp.com/img/logo.png"/>
+		<meta property="og:image" content="http://www.cititravel.es/css/images/logo-cititravel.png"/>
     <meta property="og:title" content="See the lastest news in our destinations"/>
     <meta property="og:url" content="http://www.cititravel.es"/>
     <meta property="og:site_name" content="Cititravel DMC"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet"  type="text/css" href="style.css">
 		<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
 			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -18,20 +19,8 @@
 	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
 		<link rel="image_src" href="http://alfacamp.com/thumbnail.png">
-		<link rel="icon" type="image/ico" href="http://alfacamp.com/favicon.ico">
-<style>
-#services i:hover, i:hover{color: #df3b62;}
-h1.header{text-shadow: 1px 0 0 rgba(255, 255, 255, 0.3), -1px 0 0 rgba(255, 255, 255, 0.3), 0 1px 0 rgba(255, 255, 255, 0.3), 0 -1px 0 rgba(255, 255, 255, 0.3), 1px 1px rgba(255, 255, 255, 0.3), -1px -1px 0 rgba(255, 255, 255, 0.3), 1px -1px 0 rgba(255, 255, 255, 0.3), -1px 1px 0 rgba(255, 255, 255, 0.3);
-}
-#gallery-top-desktop {
-background: #fff /img/gallery_bg.jpg fixed no-repeat center;
-background-size: cover;
-}
-#services-top-desktop {
-background: #fff /img/services_bg2.jpg fixed no-repeat center;
-background-size: cover;
-height: 350px;
-}</style>
+		<link rel="icon" type="image/ico" href="http://www.cititravel.es/favicon.ico">
+
 	</head>
 	<body data-spy="scroll" data-target=".navbar" data-offset='64' onLoad="$.stellar();">
 
@@ -53,7 +42,6 @@ height: 350px;
 							<li><a href="#partner-top">Partners</a></li>
 							<li><a href="#funding-top">Funding</a></li>
 							<li><a href="#contact-top">Participa</a></li>
-
 						<!--
 							<li><a href="#" class="tooltip_hover" data-placement="bottom" data-toggle="tooltip" title="Twitter" ><i class="icon icon-twitter"></i></a></li>
 							<li><a href="#" class="tooltip_hover" data-placement="bottom" data-toggle="tooltip" title="Facebook" ><i class="icon icon-facebook"></i></a></li>
